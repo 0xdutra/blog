@@ -1,0 +1,14 @@
+- id: related_posts_title
+  translation: Postagens relacionadas
+
+- id: categories_title
+  translation: Categorias
+
+- id: tags_title
+  translation: Tags
+
+- id: recent_posts_title
+  translation: Posts recentes
+
+- id: archives_title
+  translation: Arquivos

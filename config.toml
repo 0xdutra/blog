@@ -1,0 +1,63 @@
+baseURL = "https://0xdutra.github.io"
+title = "0xdutra - Just another computer programmer"
+author = "0xdutra"
+theme = "inkblotty"
+paginate = 10
+
+languageCode = "pt-br"
+DefaultContentLanguage = "pt-br"
+hasCJKLanguage = "true"
+
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+summaryLength=150
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "GitHub"
+  name = "GitHub"
+  url = "https://github.com/0xdutra"
+  weight = 20
+
+[[menu.main]]
+  identifier = "LinkedIn"
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/0xdutra/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "Twitter"
+  name = "Twitter"
+  url = "https://twitter.com/0xdutra"
+  weight = 40
+
+[Params]
+  readmore = true
+
+[outputs]                          # c.f. https://gohugo.io/templates/output-formats/
+  home = ["HTML", "RSS"]
+  page =  ["HTML"]
+  section =  ["HTML", "RSS"]
+  taxonomyTerm =  ["HTML", "RSS"]
+  taxonomy =  ["HTML", "RSS"]
+
+[sitemap]
+  filename = "sitemap.xml"  # c.f. https://gohugo.io/templates/sitemap-template/#configure-sitemap-xml
