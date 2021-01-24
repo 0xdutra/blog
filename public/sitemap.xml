@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://0xdutra.github.io/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/categories/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/tags/freebsd/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/post/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/categories/security/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/tags/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/archives/01/2020/</loc>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://0xdutra.github.io/tags/index/</loc>
+  </url>
+  
+</urlset>
