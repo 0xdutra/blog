@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://0xdutra.github.io/</loc>
+    <loc>https://blog.0xdutra.com/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/categories/</loc>
+    <loc>https://blog.0xdutra.com/about/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/tags/freebsd/</loc>
+    <loc>https://blog.0xdutra.com/categories/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/post/</loc>
+    <loc>https://blog.0xdutra.com/tags/freebsd/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/categories/security/</loc>
+    <loc>https://blog.0xdutra.com/post/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/tags/</loc>
+    <loc>https://blog.0xdutra.com/categories/security/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</loc>
+    <loc>https://blog.0xdutra.com/tags/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/about/</loc>
-    <priority>0</priority>
+    <loc>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/archives/01/2020/</loc>
+    <loc>https://blog.0xdutra.com/archives/01/2020/</loc>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/archives/</loc>
+    <loc>https://blog.0xdutra.com/archives/</loc>
   </url>
   
   <url>
-    <loc>https://0xdutra.github.io/tags/index/</loc>
+    <loc>https://blog.0xdutra.com/tags/index/</loc>
   </url>
   
 </urlset>

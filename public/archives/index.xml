@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on 0xdutra</title>
-    <link>https://0xdutra.github.io/archives/</link>
+    <link>https://blog.0xdutra.com/archives/</link>
     <description>Recent content in Archives on 0xdutra</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://0xdutra.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://blog.0xdutra.com/archives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01/2020</title>
-      <link>https://0xdutra.github.io/archives/01/2020/</link>
+      <link>https://blog.0xdutra.com/archives/01/2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://0xdutra.github.io/archives/01/2020/</guid>
+      <guid>https://blog.0xdutra.com/archives/01/2020/</guid>
       <description></description>
     </item>
     

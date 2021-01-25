@@ -2,27 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0xdutra</title>
-    <link>https://0xdutra.github.io/</link>
+    <link>https://blog.0xdutra.com/</link>
     <description>Recent content on 0xdutra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://0xdutra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.0xdutra.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Utilizando o fail2ban para bloquear brute-forte no SSH (FreeBSD)</title>
-      <link>https://0xdutra.github.io/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</link>
+      <title>About</title>
+      <link>https://blog.0xdutra.com/about/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://0xdutra.github.io/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</guid>
-      <description>&lt;p&gt;Como instalar e configurar o fail2ban no FreeBSD.&lt;/p&gt;</description>
+      <guid>https://blog.0xdutra.com/about/</guid>
+      <description>Olá, me chamo Gabriel Dutra, tenho 22 anos, nasci e me criei numa pequena cidade do norte do Paraná, chamada Marialva. Sou formado em análise e desenvolvimento de sistemas e estou fazendo uma pós graduação na área de segurança da informação. Trabalho com TI há quatro anos, todo esse tempo na área de infraestrutura. Nas horas vagas, tenho contribuído com o FreeBSD e mantendo pequenos projetos no Github.
+Projetos   Fawkes - Um web crawler para o Google, basea-se no conceito de Dork para realizar busca por sites vulneráveis a SQL injection.
+  Ansible-infosec-stack - Projeto para automatizar a criação de uma máquina virtual para estudos de pentest.
+  Contribuições  FreeBSD - Atualmente, mantenho alguns pacotes no ports do FreeBSD  https://portscout.freebsd.org/0xdutra@gmail.com.html    Contatos  https://linkedin.com/in/0xdutra https://twitter.com/0xdutra https://github.com/0xdutra 0xdutra@gmail.com  </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://0xdutra.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Utilizando o fail2ban para bloquear brute-forte no SSH (FreeBSD)</title>
+      <link>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://0xdutra.github.io/about/</guid>
-      <description></description>
+      <guid>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</guid>
+      <description>&lt;p&gt;Como instalar e configurar o fail2ban no FreeBSD.&lt;/p&gt;</description>
     </item>
     
   </channel>

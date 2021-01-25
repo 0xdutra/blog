@@ -17,3 +17,11 @@ Olá, me chamo Gabriel Dutra, tenho 22 anos, nasci e me criei numa pequena cidad
 
 * FreeBSD - Atualmente, mantenho alguns pacotes no ports do FreeBSD
     * https://portscout.freebsd.org/0xdutra@gmail.com.html
+
+
+## Contatos
+
+* https://linkedin.com/in/0xdutra
+* https://twitter.com/0xdutra
+* https://github.com/0xdutra
+* 0xdutra@gmail.com
