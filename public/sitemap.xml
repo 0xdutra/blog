@@ -3,8 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.0xdutra.com/categories/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/como-codificar-e-codificar-objetos-json-em-golang/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/tags/golang/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.0xdutra.com/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/post/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/categories/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/tags/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/tags/freebsd/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/categories/security/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,37 +58,11 @@
   </url>
   
   <url>
-    <loc>https://blog.0xdutra.com/categories/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <loc>https://blog.0xdutra.com/archives/01/2021/</loc>
   </url>
   
   <url>
-    <loc>https://blog.0xdutra.com/tags/freebsd/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.0xdutra.com/post/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.0xdutra.com/categories/security/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.0xdutra.com/tags/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.0xdutra.com/archives/01/2020/</loc>
+    <loc>https://blog.0xdutra.com/archives/02/2021/</loc>
   </url>
   
   <url>

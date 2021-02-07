@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security on 0xdutra</title>
+    <title>Security on Just another computer programmer</title>
     <link>https://blog.0xdutra.com/categories/security/</link>
-    <description>Recent content in Security on 0xdutra</description>
+    <description>Recent content in Security on Just another computer programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.0xdutra.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.0xdutra.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Utilizando o fail2ban para bloquear brute-forte no SSH (FreeBSD)</title>
       <link>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.0xdutra.com/utilizando-o-fail2ban-para-bloquear-brute-forte-no-ssh-freebsd/</guid>
       <description>&lt;p&gt;Como instalar e configurar o fail2ban no FreeBSD.&lt;/p&gt;</description>

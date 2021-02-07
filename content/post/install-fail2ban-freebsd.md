@@ -1,7 +1,7 @@
 ---
 author: Gabriel Dutra
 title: Utilizando o fail2ban para bloquear brute-forte no SSH (FreeBSD)
-date: "2020-01-24"
+date: "2021-01-24"
 tags: [
     "FreeBSD"
 ]
@@ -9,7 +9,7 @@ categories: [
     "Security"
 ]
 
-archives: "01/2020"
+archives: "01/2021"
 ---
 
 Como instalar e configurar o fail2ban no FreeBSD.
@@ -72,9 +72,7 @@ sysrc fail2ban_enable="YES"
 
 Para listar as jails configuradas utilize o comando: 
 
-```bash
-fail2ban-client status
-```
+```bash<!-- more -->
 
 Caso deseja verificar os IP's que estão bloqueados, basta adiciona o nome da jail no comando status 
 
